@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="Trennoyunu.c">
+    <ClCompile Include="TrenOyunu.c">
       <Filter>Kaynak Dosyalar</Filter>
     </ClCompile>
   </ItemGroup>
